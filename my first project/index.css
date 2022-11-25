@@ -1,0 +1,28 @@
+.bg-img01-container {
+    background-color: rgb(233, 227, 227);
+    height: 100vh;
+    background-size: cover;
+}
+.head01 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 50px;
+}
+.about{
+    padding: 10px;
+    padding-left: 30px;
+}
+.para01 {
+    padding: 10px;
+    padding-left:30px;
+}
+.indeximage01 {
+    height: 250px;
+    padding: px;
+    margin: 10px;
+}
+.button001 {
+    padding-left: 10px;
+    text-align: center;
+}

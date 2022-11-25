@@ -1,0 +1,37 @@
+.bg-image {
+    background-image: url("https://res.cloudinary.com/daoa45pcf/image/upload/v1669301946/samples/project%207%20wonders/tajmahal/taj_background_otwgyc.jpg");
+    height: 100%;
+    background-size: cover;
+}
+.card-container{
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color: white;
+}
+.heading{
+    font-weight: bold;
+    font-size: 60px;
+    padding-left: 300px;
+    color: white;
+}
+.container-heading{
+    font-weight: bold;
+    font-size: 45px;
+    padding: 30px;
+}
+.para{
+    font-size: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 5px;
+}
+.image-caurosal{
+    width: 1600px;
+    height: 1200px;
+}
+.button-end-container{
+    padding: 10px;
+    text-align: end;
+}
